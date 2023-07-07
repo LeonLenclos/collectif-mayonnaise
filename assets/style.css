@@ -19,6 +19,7 @@ body {
     font-size: 12pt;
     max-width: 1000px;
   margin: auto;
+  padding: 20px;
   }
   
 
@@ -56,6 +57,9 @@ a:hover {
   color:black;
 }
   
+img {
+  max-width:100%;
+}
 
     .spectacles {
       display: flex;

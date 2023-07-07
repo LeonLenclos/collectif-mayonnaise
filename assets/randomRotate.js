@@ -2,8 +2,10 @@
 function randomRotateNow (element, selector){
     element.querySelectorAll(selector + ' *:not(.norotate)').forEach((e)=>{
         // e.style.transform='rotation('+*42+'deg);';
-        let amp = 2 // deg
-        let angle = Math.random() * amp - amp/2;
+        const AMP = 2 // deg
+        const PRECISION = 100
+        let angle = Math.random() * AMP - AMP/2;
+        angle = Math.round(angle*PRECISION)/PRECISION
         e.style.transform="rotate("+angle+"deg)";
         console.log(e)
       });      
