@@ -1,0 +1,23 @@
+
+<table class="programme" markdown="0">
+    <tr>
+        <th></th>
+        <th><h2>Jours impaires</h2>(mer 23 et ven 25)</th>
+        <th><h2>Jours paires</h2>(jeu 24 et sam 26)</th>
+    </tr>
+    {% for spectacle in site.data.spectacles %}
+    <tr>
+        <td>
+            <em>{{spectacle.titre}}</em>
+            {% if spectacle.compagnie %}{{spectacle.compagnie}} - {% endif %}{{spectacle.duree}}' - cour du {{spectacle.cour}} {% if spectacle.cour == "haut" %}&uarr;{% else %}&darr;{% endif %}
+        </td>
+
+        {% if spectacle.horaires.tlj %}
+        <td colspan="2">{{spectacle.horaires.tlj}}</td>
+        {% else %}
+        <td>{{spectacle.horaires.impaires}}</td>
+        <td>{{spectacle.horaires.paires}}</td>
+        {% endif %}
+    </tr>
+    {% endfor %}
+</table>

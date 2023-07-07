@@ -1,0 +1,260 @@
+# COMPLÉTEZ / CORRIGEZ LES INFORMATIONS DES SPECTACLES
+# SANS CHANGER LA STRUCTURE DU DOCUMENT ET CE QU'IL Y A AVANT CHAQUE DEUX-POINTS (:)
+# SI UN CHAMP NE S'APPLIQUE PAS À VOTRE SPECTACLE LAISSEZ LE CHAMP VIDE EN METTANT UNE TILDE (~)
+
+- titre: L'Ile au trésor
+  compagnie: 9 thermidor
+  genre: Théâtre d’objets
+  duree: 63
+  annee: 2021
+  age_min: 7
+  mail: prod.9thermidor@gmail.com
+  tel: 06 51 21 51 72
+  site: https://cie9thermidor.com/lile-au-tresor/
+  texte :
+    - Le petit Jim Hawkins, qui mène une vie tranquille à l’auberge de l’Amiral Benbow, se retrouve par une série d’aventures en possession d’une mystérieuse carte au trésor.
+    - Aidé par ses amis, le docteur Livesey et le Comte Trelawney, il embarque à bord de l’Hispanola, à la recherche de l’Ile au Trésor.
+    - Jim est recruté comme mousse. Mais l’équipage se révèle être en réalité une bande de pirates – menée par John Silver Jim et ses amis réussiront-ils à échapper aux pirates, à trouver le trésor et à rentrer sains et saufs en Angleterre ?
+    - Une histoire pleine d’aventures et de dangers, où l’appât du gain peut s’avérer fatal, où l’amitié est précieuse et fragile, où l’honnêteté n’est pas toujours du côté que l’on croit…"
+  cour: haut
+  horaires :
+    impaires: 17h00
+    paires: 11h15
+
+- titre: Contes et légendes de la guerre de Troie
+  compagnie: Cie du Vieux Singe
+  genre: Théâtre
+  duree: 55
+  annee: 2014
+  age_min: 6
+  mail: prod.vieuxsinge@gmail
+  tel: 06 51 21 51 72
+  site: http://www.levieuxsinge.com/contes-legendes-de-guerre-troie.html
+  texte :
+    - Tout le monde connaît de loin les épisodes de la Guerre de Troie et a déjà entendu parler d’Agamemnon, d’Hélène, d’Ulysse, d’Ajax... Mais les étapes et les détails de ces histoires sont souvent flous, liés à de lointains souvenirs scolaires… Et si les noms sont restés, le récit, lui, s’est perdu. La vocation de ce spectacle est d’abord de faire revivre cette histoire, d’en dérouler le fil, d’en rappeler la simplicité et la cohérence.
+    - Tout a commencé le jour où la discorde, la haine, l’envie et la rivalité, ont débarqué sur une haute montagne, alors qu’on y célébrait un mariage.Et puis, tout s’enchaîne, une belle pomme d’or sème la zizanie parmi les hommes, Pâris enlève Hélène, la fille de Zeus ; un père sacrifie sa fille pour faire lever les vents ; Achille reçoit une flèche dans son célèbre talon…
+    - Une comédienne et une percussioniste (vibraphone et autres instruments), prennent en charge les différents contes ainsi que tous les personnages pour un spectacle musical à la fois drôle et poétique. 
+
+  cour: bas
+  horaires :
+    impaires: 18h00
+
+
+- titre: Le voyage d’Ulysse
+  compagnie: Cie du Vieux Singe
+  genre: Théâtre
+  duree: 60
+  annee: 2018
+  age_min: 6
+  mail: prod.vieuxsinge@gmail
+  tel: 06 51 21 51 72
+  site: http://www.levieuxsinge.com/le-voyage-d-ulysse.html
+  texte :
+    - "On va vous raconter l’histoire d’Ulysse, Fils de Laërte, Roi d’Ithaque – c’est une histoire grecque - Et on va vous raconter comment, en rentrant de la guerre de Troie, il s’était retrouvé coincé sur la mer. Elle parle de ça, cette histoire : La mer. Les vagues. L’horizon qui s’enfuit toujours. Les poissons et l’eau salée, l’eau violette - l’eau silencieuse."
+    - "Le voyage d’Ulysse, c’est le récit d’un homme amené à découvrir sa mesure, à définir son humanité. Ulysse est confronté à des épreuves qui, au-delà de sa ruse légendaire, le placent, à chaque étape, face aux frontières de l’Humain : la Barbarie, l’Oubli, l’Eternité... chaque aventure l’amène à questionner les limites de l’Homme. Jusqu’à l’épreuve ultime, affamé et conduit sur l’île des taureaux sacrés, il doit lutter contre l’envie de consommer cette viande qui appartient aux Dieux. Aujourd’hui, alors que les taureaux sont abattus en masse dans des abattoirs démesurés, et que les tsunamis ont pris le relais des tempêtes antiques, cette histoire vient percuter de plein fouet nos enjeux contemporains."
+
+  cour: bas
+  horaires :
+    paires: 18h00
+
+- titre: Les impavides bretons
+  compagnie: La Mandale
+  genre: Marionnettes à gaine et bruitages
+  duree: 55
+  annee: 2021
+  age_min: 7
+  mail: diff.lamandale@gmail.com
+  tel: 06 64 43 40 31
+  site: http://lamandale.fr/les-impavides-bretons/
+  texte :
+    - "Que se passe-t-il dans les canalisations de nos habitations ? Tout ce qu’on voit c’est un trou, un trou noir dans lequel tout passe inaperçu, où tout glisse en un instant pour être oublié et traité ailleurs."
+    - "Et pourtant les canalisations sont là, elles nous entourent, elles traversent nos logis, elles tissent une toile mystérieuse dans nos murs. Les canalisations nous côtoient et nous côtoyons les canalisations... tous les jours... sans jamais vraiment se connaître, sans jamais vraiment se rencontrer. C’est dommage !"
+    - "Prendre un temps ensemble pour vraiment se poser la question : Que se passe-t-il dans..."
+  cour: haut
+  horaires :
+    impaires: 11h15
+    paires: 17h00
+
+- titre: ELEKTRA I love you so much
+  compagnie: Cie NOKILL
+  genre: Musique électronique et hologrammes
+  duree: 90
+  annee: 2022
+  age_min: ~
+  mail: cie@nokill.fr
+  tel: 07 68 52 29 53
+  site: http://cienokill.fr/spectacles/elektra/
+  texte :
+    - I love you so much, nouveau spectacle d’Elektra est un live de musique électronique festif mis en scène avec des hologrammes, une invitation à une expérience visuelle et sonore enivrante et hypnotique.
+  cour: bas
+  horaires :
+    impaires: 00h00
+    paires: 22h45
+
+- titre: Quand les corbeaux auront des dents
+  compagnie: L’espèce de compagnie
+  genre: Théâtre d’objets
+  duree: 55
+  annee: 2021
+  age_min: 7
+  mail: lespecedecompagnie.diff@gmail.com
+  tel: 07 68 52 29 53
+  site: https://espece-de-compagnie.fr/spectacle-quand-les-corbeaux-auront-des-dents
+  texte :
+    - Adaptation libre du livre « La saga du Grand Corbeau » de Sharon Stewart.
+    - L’Espèce de compagnie explore ici la complexité et l’absurdité de notre relation avec les quelques espèces libres encore existantes. A travers le point de vue d’un animal sauvage, un corbeau,  elle pose un regard humoristique et acidulé sur les deux pattes que nous sommes et la place que nous occupons dans le monde.
+
+
+  cour: bas
+  horaires :
+    tlj: 15h30
+
+- titre: Membre
+  compagnie: Collectif Membres
+  genre: Théâtre
+  duree: 55
+  annee: 2021
+  age_min: 13
+  mail: membre.membres@gmail.com
+  tel: 06 86 66 25 01 
+  site: http://www.lesthereses.com/membre/
+  texte :
+    - Sur une terrasse de café, Membre embarque les spectateur·trices à être témoins de l’enquête menée sous leurs yeux par les comédien·nes. 
+    - À la fois drôles et féroces, i·elles s’éprouvent à se dévoiler, au travers des questions de genre, de sexe et de sexualité ; i·elles mettent à nu leur intime, et se révèlent dans leur singularité, au-delà des cases, des catégories et des apparences.
+    - Avec cette enquête sans fard, Membre souhaite faire écho en chacun·e d’entre nous, et mettre en lumière la diversité qui nous compose, réjouissante, ennemie du binaire. 
+    - C’est une ode à la liberté et au courage d’être soi.
+
+  cour: bas
+  horaires :
+    tlj: 12h45
+
+- titre: Les conférences de poche
+  compagnie: Cie NOKILL
+  genre: Conférences
+  duree: 20
+  annee: 2017-2023
+  age_min: 12
+  mail: cie@nokill.fr
+  tel: 07 68 52 29 53
+  site: http://cienokill.fr/spectacles/conferencesdepoche/
+  texte :
+    - Depuis le milieu des années 10, je donne des courtes conférences où je confonds fiction et réalité de sorte que la différence entre les deux n’intéresse plus personne. Une fois, à propos d’une histoire que je racontais quelqu’un m’a demandé si c’était vrai, je n’ai pas pu répondre car je ne savais plus. Une fois, un collégien qui avait vu le spectacle lors d’une sortie scolaire a écrit à propos de ces conférences « long et très sérieux ». Une fois, j’ai été obligé d’avouer à une doctorante qu’en réalité, je n’avais pas lu Spinoza. Une fois, j’ai dû arrêter la conférence, car un téléphone sonnait et que personne ne le coupait, c’était le mien. Parfois, je ne dis rien pendant plusieurs minutes et tout le monde m’écoute. Souvent je fais des dessins sur un paper-board pendant que je parle. J’ai aussi un verre d’eau que j’utilise pour boire.
+  cour: bas
+  horaires :
+    tlj: 12h15, 14h30, 16h30
+
+- titre: Salle d’attente
+  compagnie: La station magnétique
+  genre: Théâtre d’objets
+  duree: 55
+  annee: 2022
+  age_min: 11
+  mail: contact@lastationmagnetique.fr
+  tel: 06 66 28 95 94
+  site: https://www.lastationmagnetique.fr/salleda.php
+  texte :
+    - Veuillez prendre place dans la salle d’attente, votre numéro sera appelé sur l’écran dès que possible. À moins qu’il ne l’ait été, dans un futur qui a déjà eu lieu. Le temps se dérègle, s’accélère. Les aiguilles de l’horloge s’emballent, le ficus fane à vue d’œil, le soleil entre dans une course folle... Mais si un retour à la normale se produit, que restera-t-il de nous, de nos vies, de nos envies de changer le monde ?
+    - Escapade intime et politique dans un imaginaire collectif nourri de SF, La Salle d’Attente nous embarque dans une immersion à grande vitesse.
+  cour: haut
+  horaires :
+    impaires: 15h00
+    paires: 18h00
+
+- titre: Cabaret Bad Biches
+  compagnie: Collectif Bad Biches
+  genre: Cabaret
+  duree: 60
+  annee: 2022
+  age_min: ~
+  mail: cabare.badbiches@gmail.com
+  tel: 06 06 93 19 03 
+  site: https://www.instagram.com/cabaretbadbiches
+  texte :
+    - On se plaît à croiser une biche à l’orée d’un sous-bois. Si on est assez curieux.se et discret.e, elle nous livre le spectacle d’une gestuelle précise et généreuse. Amie fidèle de Diane, elle lui fait don de rébellion.
+    - Leur naissance n’aurait pas pu prendre place ailleurs qu’au cœur d’une fête, joyeuse et inattendue. Depuis, elles arpentent les nuits de France et de Navarre, cherchant refuge où on leur prête, bouffant le monde si on leur donne.
+    - Nul support ne s’aurait échappé à leur appétit, triturant et explorant la chanson française, l'adrénaline du RnB, la force de l'opéra, la puissance du rap, le drame italien et les morsures du punk et j’en passe. Vous traînant la patte dans leurs histoires avec une impertinence qui leur est propre.
+  cour: bas
+  horaires :
+    impaires: 22h15
+    paires: 21h30
+
+- titre: Full Fuel
+  compagnie: Oxyput compagnie
+  genre: Danse
+  duree: 45
+  annee: 2018
+  age_min: ~
+  mail: diffusion@oxyputcompagnie.com
+  tel: 06 83 91 18 60
+  site: http://oxyputcompagnie.com/full-fuel/
+  texte :
+  - À l’aube d’une ère où il devient nécessaire de trouver d’autres carburants, comment créer le contexte propice à la création d’une dynamique commune ? 
+  - Restons prêts à traverser cette tempête qui pointe à l’horizon tout en dansant comme des singes sur de la musique folle ! 
+  cour: haut
+  horaires :
+    tlj: 20h15
+
+- titre: Happy Devils
+  compagnie: ~
+  genre: Concert intrépide
+  duree: 60
+  annee: ~
+  age_min: ~
+  mail: happydevils.diffusion@gmail.com
+  tel: 06 72 68 11 54
+  site: ~
+  texte :
+  - Dans le far, far, far west... de sombres, loufoques et drôles d'événements ont lieu. Entre les cavalcades fulgurantes dans le désert aride de l'Arizona, les prières étranges pour un Jésus en chocolat et les incantations puissantes des Appalaches, le duo emmène son public dans un voyage chaud et intime, qui prend au tripes. Toujours sur le fil, les deux artistes musicien.nes évoluent dans un univers blues et transportent d’émotions joyeuses et hilarantes en moments intenses et profonds.
+  - Happy Devils arrange et dérange à sa façon les groove new-yorkais d'Eric Bibb, le son psychédélique de Jimmy Hendrix, le blues du Sud de Brother Dege, ou encore l'univers décalé de Tom Waits. 
+
+
+  cour: bas
+  horaires :
+    tlj: 19h00
+
+- titre: DJ'itane
+  compagnie: Le Bateau des Fous
+  genre: DJ set marionnettique
+  duree: 75
+  annee: 2015
+  age_min: ~
+  mail: lebateaudesfous@gmail.com
+  tel: 06 19 94 78 67
+  site: https://www.lebateaudesfous.com/la-compagnie/les-spectacles/dj-itane/
+  texte :
+    - "Du flamenco au swing manouche, des musiques tziganes aux fanfares de l’est, la performance de DJ'itane mêle musiques traditionnelles, rythmes électros, boule de cristal, lumières kitsch et ombres mystérieuses, dans un mix joyeux et festif"
+  cour: bas
+  horaires :
+    paires: 00h30
+
+- titre: Bohème 3000
+  compagnie: "-C-i-E-L- Δ FLAMME"
+  genre: Poésie sonore
+  duree: 10
+  annee: 2022
+  age_min: ~
+  mail: bohemetroismille@gmail.com
+  tel: 07 53 71 70 31 - 06 65 11 29 87
+  site: https://boheme3000.fr/
+  texte :
+    - En déambulation sur les chemins de la réalité dans leur caravane, -C-i-e-l- et Flamme sont des poètes du hasard. Leur duo se nomme Bohème 3000. En partant d’un point de vue holistique qui considère une interconnexion entre chaque chose, les phrases et les notes deviennent des matériaux à convoquer par le hasard dans un proto-cole d’improvisation poétique.
+  cour: haut
+  horaires :
+    tlj: en continu dès 11h00
+
+- titre: L'enfant Nine
+  compagnie: Compagnie Minuscule
+  genre: Conte sonore et musical
+  duree: 40
+  annee: 2019
+  age_min: 4
+  mail: minuscule.compagnie@gmail.com
+  tel: 06 42 97 70 52
+  site: https://minusculecompagnie.wixsite.com/monsite/
+  texte :
+    - "Il était une fois une petite fille qui rêvait d’aller explorer le monde extérieur…"
+    - "​A l’aide d’une machine électronique nommée « looper », la conteuse-chanteuse Lily Westphal nous emmène dans l’univers de Nine, explorant une forêt mystérieuse à la rencontre d’étonnants personnages : un bébé géant, un arbre chanteur, un monstre gluant qui fait du rap… Ouvrez grand vos oreilles car vous n’êtes pas au bout de vos surprises !"
+  cour: bas
+  horaires :
+    tlj: 10h30
+

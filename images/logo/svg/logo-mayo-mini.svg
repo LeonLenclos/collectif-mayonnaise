@@ -1,0 +1,461 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="178.57761mm"
+   height="56.515209mm"
+   viewBox="0 0 178.57761 56.515209"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   sodipodi:docname="logo-mayo-mini.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:zoom="0.5"
+     inkscape:cx="288"
+     inkscape:cy="-217"
+     inkscape:window-width="1920"
+     inkscape:window-height="1043"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
+  <defs
+     id="defs2">
+    <inkscape:path-effect
+       effect="powerstroke"
+       id="path-effect103108"
+       is_visible="true"
+       lpeversion="1"
+       offset_points="0,4.99214"
+       not_jump="false"
+       sort_points="true"
+       interpolator_type="CubicBezierJohan"
+       interpolator_beta="0.2"
+       start_linecap_type="zerowidth"
+       linejoin_type="extrp_arc"
+       miter_limit="4"
+       scale_width="1"
+       end_linecap_type="zerowidth" />
+    <inkscape:path-effect
+       effect="skeletal"
+       id="path-effect102911"
+       is_visible="true"
+       lpeversion="1"
+       pattern="m -53.576121,64.362489 c 22.902946,-1.394839 45.86816,-0.647426 68.774426,-0.05589 5.58992,-3.304861 -3.768126,-5.747825 -6.354336,-7.147107 -3.36164,-2.031565 -10.76683,-4.165441 -11.44132,-6.987135 9.4567,3.44968 18.898846,5.264091 26.923706,11.828508 4.0114,3.096137 -6.77216,7.511611 -11.010666,8.810036 -5.97057,2.358444 -16.12089,4.718254 -21.02486,8.938214"
+       copytype="single_stretched"
+       prop_scale="1"
+       scale_y_rel="false"
+       spacing="0"
+       normal_offset="0"
+       tang_offset="0"
+       prop_units="false"
+       vertical_pattern="false"
+       hide_knot="false"
+       fuse_tolerance="0" />
+    <rect
+       x="170.54477"
+       y="217.66174"
+       width="89.230515"
+       height="42.286194"
+       id="rect37544" />
+    <filter
+       inkscape:label="Ridged Border"
+       inkscape:menu="Bevels"
+       inkscape:menu-tooltip="Ridged border with inner bevel"
+       style="color-interpolation-filters:sRGB"
+       id="filter5609"
+       x="-0.16580088"
+       y="-0.18833993"
+       width="1.3316019"
+       height="1.3766799">
+      <feMorphology
+         radius="4.3"
+         in="SourceAlpha"
+         result="result91"
+         id="feMorphology5595" />
+      <feComposite
+         operator="out"
+         in="SourceGraphic"
+         in2="result91"
+         id="feComposite5597" />
+      <feGaussianBlur
+         result="result0"
+         stdDeviation="1.2"
+         id="feGaussianBlur5599" />
+      <feDiffuseLighting
+         diffuseConstant="1"
+         id="feDiffuseLighting5603">
+        <feDistantLight
+           elevation="66"
+           azimuth="225"
+           id="feDistantLight5601" />
+      </feDiffuseLighting>
+      <feBlend
+         mode="multiply"
+         in2="SourceGraphic"
+         id="feBlend5605" />
+      <feComposite
+         operator="in"
+         in2="SourceAlpha"
+         id="feComposite5607" />
+    </filter>
+    <filter
+       inkscape:label="Ridged Border"
+       inkscape:menu="Bevels"
+       inkscape:menu-tooltip="Ridged border with inner bevel"
+       style="color-interpolation-filters:sRGB"
+       id="filter5625"
+       x="-0.26728147"
+       y="-0.18157679"
+       width="1.5345629"
+       height="1.3631536">
+      <feMorphology
+         radius="4.3"
+         in="SourceAlpha"
+         result="result91"
+         id="feMorphology5611" />
+      <feComposite
+         operator="out"
+         in="SourceGraphic"
+         in2="result91"
+         id="feComposite5613" />
+      <feGaussianBlur
+         result="result0"
+         stdDeviation="1.2"
+         id="feGaussianBlur5615" />
+      <feDiffuseLighting
+         diffuseConstant="1"
+         id="feDiffuseLighting5619">
+        <feDistantLight
+           elevation="66"
+           azimuth="225"
+           id="feDistantLight5617" />
+      </feDiffuseLighting>
+      <feBlend
+         mode="multiply"
+         in2="SourceGraphic"
+         id="feBlend5621" />
+      <feComposite
+         operator="in"
+         in2="SourceAlpha"
+         id="feComposite5623" />
+    </filter>
+    <filter
+       inkscape:label="Ridged Border"
+       inkscape:menu="Bevels"
+       inkscape:menu-tooltip="Ridged border with inner bevel"
+       style="color-interpolation-filters:sRGB"
+       id="filter5641"
+       x="-0.15317404"
+       y="-0.48703215"
+       width="1.3063481"
+       height="1.9740644">
+      <feMorphology
+         radius="4.3"
+         in="SourceAlpha"
+         result="result91"
+         id="feMorphology5627" />
+      <feComposite
+         operator="out"
+         in="SourceGraphic"
+         in2="result91"
+         id="feComposite5629" />
+      <feGaussianBlur
+         result="result0"
+         stdDeviation="1.2"
+         id="feGaussianBlur5631" />
+      <feDiffuseLighting
+         diffuseConstant="1"
+         id="feDiffuseLighting5635">
+        <feDistantLight
+           elevation="66"
+           azimuth="225"
+           id="feDistantLight5633" />
+      </feDiffuseLighting>
+      <feBlend
+         mode="multiply"
+         in2="SourceGraphic"
+         id="feBlend5637" />
+      <feComposite
+         operator="in"
+         in2="SourceAlpha"
+         id="feComposite5639" />
+    </filter>
+    <filter
+       inkscape:label="Ridged Border"
+       inkscape:menu="Bevels"
+       inkscape:menu-tooltip="Ridged border with inner bevel"
+       style="color-interpolation-filters:sRGB"
+       id="filter5657"
+       x="-0.044624873"
+       y="-0.28084883"
+       width="1.0892497"
+       height="1.5616977">
+      <feMorphology
+         radius="10.984759029479847"
+         in="SourceAlpha"
+         result="result91"
+         id="feMorphology5643"
+         operator="erode" />
+      <feComposite
+         operator="out"
+         in="SourceGraphic"
+         in2="result91"
+         id="feComposite5645" />
+      <feGaussianBlur
+         result="result0"
+         stdDeviation="1.2"
+         id="feGaussianBlur5647" />
+      <feDiffuseLighting
+         diffuseConstant="1"
+         id="feDiffuseLighting5651">
+        <feDistantLight
+           elevation="66"
+           azimuth="225"
+           id="feDistantLight5649" />
+      </feDiffuseLighting>
+      <feBlend
+         mode="multiply"
+         in2="SourceGraphic"
+         id="feBlend5653" />
+      <feComposite
+         operator="in"
+         in2="SourceAlpha"
+         id="feComposite5655" />
+    </filter>
+    <filter
+       inkscape:label="Ridged Border"
+       inkscape:menu="Bevels"
+       inkscape:menu-tooltip="Ridged border with inner bevel"
+       style="color-interpolation-filters:sRGB"
+       id="filter5673"
+       x="-2.0294251"
+       y="-1.8777493"
+       width="5.0588503"
+       height="4.7554989">
+      <feMorphology
+         radius="4.3"
+         in="SourceAlpha"
+         result="result91"
+         id="feMorphology5659" />
+      <feComposite
+         operator="out"
+         in="SourceGraphic"
+         in2="result91"
+         id="feComposite5661" />
+      <feGaussianBlur
+         result="result0"
+         stdDeviation="1.2"
+         id="feGaussianBlur5663" />
+      <feDiffuseLighting
+         diffuseConstant="1"
+         id="feDiffuseLighting5667">
+        <feDistantLight
+           elevation="66"
+           azimuth="225"
+           id="feDistantLight5665" />
+      </feDiffuseLighting>
+      <feBlend
+         mode="multiply"
+         in2="SourceGraphic"
+         id="feBlend5669" />
+      <feComposite
+         operator="in"
+         in2="SourceAlpha"
+         id="feComposite5671" />
+    </filter>
+    <rect
+       x="170.54477"
+       y="217.66174"
+       width="89.230515"
+       height="42.286194"
+       id="rect37544-2" />
+    <rect
+       x="170.54477"
+       y="217.66174"
+       width="89.230515"
+       height="42.286194"
+       id="rect37544-1" />
+    <rect
+       x="170.54477"
+       y="217.66174"
+       width="89.230515"
+       height="42.286194"
+       id="rect37544-2-0" />
+    <rect
+       x="170.54477"
+       y="217.66174"
+       width="89.230515"
+       height="42.286194"
+       id="rect37544-8" />
+    <rect
+       x="170.54477"
+       y="217.66174"
+       width="89.230515"
+       height="42.286194"
+       id="rect37544-2-9" />
+    <rect
+       x="170.54477"
+       y="217.66174"
+       width="89.230515"
+       height="42.286194"
+       id="rect37544-8-7" />
+    <rect
+       x="170.54477"
+       y="217.66174"
+       width="89.230515"
+       height="42.286194"
+       id="rect37544-2-9-0" />
+  </defs>
+  <g
+     inkscape:label="Calque 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-19.42974,2.5186159)">
+    <g
+       id="g23444"
+       inkscape:export-filename="/home/leon/Projets/mayonnaise/logo-mayo-mini-HD.png"
+       inkscape:export-xdpi="1199.9956"
+       inkscape:export-ydpi="1199.9956">
+      <g
+         id="g61451-0"
+         transform="matrix(-1.406313,-0.24087297,0.26682003,-1.5572817,286.42469,156.51972)"
+         style="stroke-width:1.18848">
+        <path
+           style="fill:#ffdd55;stroke:#ffdd55;stroke-width:0.3821px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 129.81457,75.760018 -52.318239,0.185255 c 0,0 -0.99412,-15.452562 0.50548,-16.084833 1.4996,-0.632266 52.727209,3.148482 52.727209,3.148482 z"
+           id="path24588-4"
+           sodipodi:nodetypes="ccscc" />
+        <ellipse
+           style="fill:#cccccc;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+           id="path24022-6"
+           cx="-134.80635"
+           cy="-60.050961"
+           rx="2.9800913"
+           ry="6.5351853"
+           transform="rotate(-175.96307)" />
+        <path
+           style="fill:#b3b3b3;fill-opacity:1;stroke:none;stroke-width:0.293107px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 136.49558,72.555285 -5.03119,0.131904 c 0,0 -2.68968,-2.588713 0.17573,-5.431491 l 5.3471,0.237121 z"
+           id="path23561-2"
+           sodipodi:nodetypes="ccccc" />
+        <path
+           id="path23261-67"
+           style="fill:#cccccc;fill-opacity:1;stroke:#ffcc00;stroke-width:0;stroke-linecap:round;stroke-linejoin:round"
+           d="m 135.03019,69.901266 a 1.6422152,2.5277537 4.036929 0 1 1.8161,-2.405872 1.6422152,2.5277537 4.036929 0 1 1.46018,2.637094 1.6422152,2.5277537 4.036929 0 1 -1.81609,2.405871 1.6422152,2.5277537 4.036929 0 1 -1.46019,-2.637093 z" />
+        <path
+           id="path23261-6-5"
+           style="fill:#808080;fill-opacity:1;stroke:#ffcc00;stroke-width:0;stroke-linecap:round;stroke-linejoin:round"
+           d="m 135.80209,69.952797 a 1.0530522,1.6342851 3.9561693 0 1 1.1645,-1.555547 1.0530522,1.6342851 3.9561693 0 1 0.93629,1.705046 1.0530522,1.6342851 3.9561693 0 1 -1.1645,1.555547 1.0530522,1.6342851 3.9561693 0 1 -0.93629,-1.705046 z" />
+      </g>
+      <g
+         id="g61451-0-9"
+         transform="matrix(1.6942227,0,0,1.8794262,-47.17968,-22.353423)">
+        <path
+           id="rect34391-6"
+           style="fill:#ffeeaa;fill-opacity:0.977745;stroke-width:1.10094;stroke-linecap:round;stroke-linejoin:round"
+           d="m 106.58655,19.955374 34.91306,5.770227 0.41097,-2.39192 -36.69926,-6.21431 z"
+           sodipodi:nodetypes="ccccc" />
+      </g>
+    </g>
+    <g
+       id="g63464-2"
+       style="stroke:#ffdd55"
+       transform="matrix(2.5646901,0,0,2.5646901,-170.99723,-115.70173)"
+       inkscape:export-filename="/home/leon/Projets/mayonnaise/logo-mayo-mini-HD.png"
+       inkscape:export-xdpi="1199.9956"
+       inkscape:export-ydpi="1199.9956">
+      <path
+         style="fill:none;stroke:#ffdd55;stroke-width:1.619;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 93.253603,50.353759 c 0,0 -3.251694,-1.463376 -3.676293,1.362502 -0.226548,1.507764 0.400842,3.274561 2.090262,2.84667 1.440625,-0.364877 2.196351,-4.760802 1.457911,-4.754244 -0.810901,0.0072 0.0272,4.836532 1.614503,4.836532 1.587302,0 1.149475,-6.249691 1.379341,-4.345349 0.187706,1.555063 0.348973,4.756896 1.693893,4.346467 1.344926,-0.41043 2.2041,-4.550231 1.936973,-4.831412 -0.17172,-0.180765 0.737727,16.994399 -3.855834,15.458366 -4.575947,-1.530141 5.343411,-11.194402 6.182401,-11.929602"
+         id="path2376-2-8"
+         sodipodi:nodetypes="cssssssssc" />
+      <path
+         style="fill:none;stroke:#ffdd55;stroke-width:1.619;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 75.059005,54.185298 c 0,0 2.168604,2.49381 3.688392,-3.086947 0.686773,-2.521875 0.687136,-6.173197 3.875139,-6.157503 2.41708,0.0119 0.806193,5.547624 0.197729,5.11519 -0.670545,-0.476555 1.159284,-5.039991 3.435765,-5.045781 4.455213,-0.01133 -1.836513,12.837518 2.866599,9.124498"
+         id="path2246-1-2"
+         sodipodi:nodetypes="cssssc" />
+      <path
+         style="fill:none;stroke:#ffdd55;stroke-width:1.619;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 103.77717,49.786654 c 0,0 -1.71169,-0.0031 -1.66941,2.098635 0.024,1.191065 0.41103,2.034014 1.62434,2.31097 0.83952,0.191634 1.52032,-0.03517 2.30891,-0.721862 0.76031,-0.662061 0.032,-3.855012 -1.18073,-3.937339 -1.01674,-0.06902 -0.97476,1.177917 -0.11843,1.138053 2.16104,-0.100602 2.97161,-0.870961 3.75011,-0.682374 0.86149,0.208688 1.64245,0.713199 1.64245,0.713199"
+         id="path2378-7-9"
+         sodipodi:nodetypes="cssssssc" />
+    </g>
+    <path
+       style="fill:none;stroke:#ffeeaa;stroke-width:1.28235;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 39.86686,-1.3402883 c 0,0 2.821646,-0.27415 3.60262,2.415"
+       id="path68822-0"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/leon/Projets/mayonnaise/logo-mayo-mini-HD.png"
+       inkscape:export-xdpi="1199.9956"
+       inkscape:export-ydpi="1199.9956" />
+    <path
+       style="fill:none;stroke:#ffeeaa;stroke-width:1.28235;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 51.717114,-0.89004826 c 0,0 3.081423,1.78186993 3.476385,6.77782996"
+       id="path69351-2"
+       inkscape:export-filename="/home/leon/Projets/mayonnaise/logo-mayo-mini-HD.png"
+       inkscape:export-xdpi="1199.9956"
+       inkscape:export-ydpi="1199.9956" />
+    <path
+       style="fill:none;stroke:#ffeeaa;stroke-width:1.28235;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 68.05106,11.505051 c 0,0 1.498831,0.0336 1.291707,3.914"
+       id="path69353-7"
+       inkscape:export-filename="/home/leon/Projets/mayonnaise/logo-mayo-mini-HD.png"
+       inkscape:export-xdpi="1199.9956"
+       inkscape:export-ydpi="1199.9956" />
+    <path
+       style="fill:none;stroke:#ffeeaa;stroke-width:1.28235;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 59.528236,19.525061 c 0,0 0.274986,4.13552 2.858398,4.00646"
+       id="path69355-6"
+       inkscape:export-filename="/home/leon/Projets/mayonnaise/logo-mayo-mini-HD.png"
+       inkscape:export-xdpi="1199.9956"
+       inkscape:export-ydpi="1199.9956" />
+    <path
+       style="fill:none;stroke:#ffeeaa;stroke-width:1.28235;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 75.220113,12.015861 c 0,0 1.261187,-1.44013 1.238104,3.22158"
+       id="path69357-1"
+       inkscape:export-filename="/home/leon/Projets/mayonnaise/logo-mayo-mini-HD.png"
+       inkscape:export-xdpi="1199.9956"
+       inkscape:export-ydpi="1199.9956" />
+    <path
+       style="fill:none;stroke:#ffeeaa;stroke-width:1.28235;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 72.704819,45.75012 c 0,0 -1.880457,4.07008 2.728857,5.88907"
+       id="path69359-3"
+       inkscape:export-filename="/home/leon/Projets/mayonnaise/logo-mayo-mini-HD.png"
+       inkscape:export-xdpi="1199.9956"
+       inkscape:export-ydpi="1199.9956" />
+    <path
+       style="fill:none;stroke:#ffeeaa;stroke-width:1.28235;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 91.580036,19.770991 c 0,0 0.570695,2.79249 4.510707,3.56217"
+       id="path69361-2"
+       inkscape:export-filename="/home/leon/Projets/mayonnaise/logo-mayo-mini-HD.png"
+       inkscape:export-xdpi="1199.9956"
+       inkscape:export-ydpi="1199.9956" />
+    <path
+       style="fill:none;stroke:#ffeeaa;stroke-width:1.28235;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 97.429352,11.079101 c 0,0 2.643228,-0.77653 3.527408,2.85291"
+       id="path69363-1"
+       inkscape:export-filename="/home/leon/Projets/mayonnaise/logo-mayo-mini-HD.png"
+       inkscape:export-xdpi="1199.9956"
+       inkscape:export-ydpi="1199.9956" />
+  </g>
+</svg>

@@ -1,0 +1,13 @@
+
+<ul class="spectacles norotate" markdown="0">
+    {% for spectacle in site.data.spectacles %}
+    <li>
+        <a href="#{{ spectacle.titre | slugify}}">
+        <div class="titre">{{ spectacle.titre }}</div>
+        {% if spectacle.compagnie %}
+        <div class="compagnie">{{ spectacle.compagnie }}</div>
+        {% endif %}
+        </a>
+    </li>
+    {% endfor %}
+</ul>
