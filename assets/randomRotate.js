@@ -17,21 +17,22 @@ function randomRotateNow (element, selector){
 // PAGED JS HANDLER
 if(typeof Paged !== 'undefined'){
 
-class randomRotate extends Paged.Handler {
-// this let us call the methods from the the chunker, the polisher and the caller for the rest of the script
-constructor(chunker, polisher, caller) {
-super(chunker, polisher, caller);
-}
+    console.log('ROTAAAATE')
+    class randomRotate extends Paged.Handler {
+    // this let us call the methods from the the chunker, the polisher and the caller for the rest of the script
+        constructor(chunker, polisher, caller) {
+        super(chunker, polisher, caller);
+        }
 
-afterParsed(content) {
-//   Before the content is parsed by Paged.js, please do the follwing:
-    randomRotateNow(content, '.feuille')
-}
-}
+        afterParsed(content) {
+        //   Before the content is parsed by Paged.js, please do the follwing:
+            randomRotateNow(content, '.feuille')
+        }
+    }
 
-// and we don’t forget to register the handler like this
+    // and we don’t forget to register the handler like this
 
-Paged.registerHandlers(randomRotate);
+    Paged.registerHandlers(randomRotate);
 
 
 }

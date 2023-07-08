@@ -2,15 +2,13 @@
 <div class="spectacle" id="{{include.spectacle.titre | slugify}}" markdown="0">
     <h2><em>{{include.spectacle.titre}}</em>{{include.spectacle.compagnie}}</h2>
     <div class="photo"><div class="container"><img class="norotate" src="images/spectacles/{{include.spectacle.titre | slugify}}.png" alt="Visuel pour {{include.spectacle.titre}}"></div></div>
-    {% for p in include.spectacle.texte %}
-    <p>{{p}}</p>
-    {% endfor %}
     <table>
+
         {%if include.spectacle.genre %}<tr><td>genre</td><td>{{include.spectacle.genre}}</td></tr>{% endif %}
         {%if include.spectacle.duree %}<tr><td>durée</td><td>{{include.spectacle.duree}} min</td></tr>{% endif %}
+
         {%if include.spectacle.annee %}<tr><td>création</td><td>{{include.spectacle.annee}}</td></tr>{% endif %}
         <tr><td>public</td><td>Tout public{%if include.spectacle.age_min %} dès {{include.spectacle.age_min}} ans{% endif %}</td></tr>
-        {%if include.spectacle.mail || include.spectacle.tel%}<tr><td>contact</td><td>{{include.spectacle.mail}}{%if include.spectacle.mail ´ include.spectacle.tel%} - {% endif %}{{include.spectacle.tel}}</td></tr>{% endif %}
-        {%if include.spectacle.site %}<tr><td colspan="2"><a href="{{include.spectacle.site}}">&rarr; site web &larr;</a></td></tr>{% endif %}
+        {%if include.spectacle.mail || include.spectacle.tel%}<tr><td colspan="2">{{include.spectacle.mail}}{%if include.spectacle.mail ´ include.spectacle.tel%}<br/>{% endif %}{{include.spectacle.tel}}</td></tr>{% endif %}
     </table>
 </div>

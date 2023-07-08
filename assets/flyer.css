@@ -1,0 +1,11 @@
+@media print{
+    @page {
+        size: 299mm 212mm;
+        margin: 0;
+        background-color: black !important;
+        color:var(--c2);
+        font-size: 5.7pt;
+
+
+    }
+}

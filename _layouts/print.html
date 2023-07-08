@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="fr">
+    <head>
+        <meta charset="utf-8">
+        <link rel="stylesheet" href="{{ "/assets/style.css" | relative_url }}">
+        <link rel="stylesheet" href="{{ "/assets/font/stylesheet.css" | relative_url }}">
+        <!-- <link rel="stylesheet" href="{{ "/assets/print.css" | relative_url }}"> -->
+        {% for stylesheet in page.css %}
+        {% capture stylesheet_url %}/assets/{{stylesheet}}.css{% endcapture %}
+        <link rel="stylesheet" href="{{ stylesheet_url | relative_url }}">
+        {% endfor %}
+        <link rel="stylesheet" href="{{ "/assets/interface.css" | relative_url }}" rel="stylesheet" type="text/css">
+
+        <script src="{{ "/assets/paged.polyfill.js" | relative_url }}"></script>
+        <script src="{{ "/assets/randomRotate.js" | relative_url }}"></script>
+      </head>
+<body>
+{{ content }}
+</body>
+</html>

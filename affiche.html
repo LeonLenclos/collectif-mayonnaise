@@ -1,0 +1,35 @@
+---
+layout: print
+css:
+ - affiche
+---
+<div class="feuille affiche" markdown="0">
+
+    {% include pastille.html %}
+
+    <header class="norotate" markdown="1">
+
+        <h3>{{site.data.infos.dates}} - {{site.data.infos.horaires}}</h3>
+
+        <h2> {{site.data.infos.lieu}}</h2>
+        <h2> {{site.data.infos.adresse}}</h2>
+
+        <h3> {{site.data.infos.divers}}</h3>
+
+    </header>
+
+    <div class="typo norotate" markdown="1">
+
+        <img src="images/visu/typo.png">
+
+    </div>
+
+    <footer class="norotate">
+        {% include spectacles-list.html %}
+    </footer>
+
+    <div class=qrcode>
+       <p>Plus d'infos sur &rarr; collectif-mayonnaise.fr</p> <img src="images/qrcode.png">
+    </div>
+
+</div>
