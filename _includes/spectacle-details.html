@@ -11,6 +11,6 @@
         {%if include.spectacle.annee %}<tr><td>création</td><td>{{include.spectacle.annee}}</td></tr>{% endif %}
         <tr><td>public</td><td>Tout public{%if include.spectacle.age_min %} dès {{include.spectacle.age_min}} ans{% endif %}</td></tr>
         {%if include.spectacle.mail || include.spectacle.tel%}<tr><td>contact</td><td>{{include.spectacle.mail}}{%if include.spectacle.mail ´ include.spectacle.tel%}<br/>{% endif %}{{include.spectacle.tel}}</td></tr>{% endif %}
-        {%if include.spectacle.site %}<tr><td colspan="2"><a href="{{include.spectacle.site}}">&rarr; site web &larr;</a></td></tr>{% endif %}
+        {%if include.web %}<tr><td colspan="2"><a href="{{include.spectacle.site}}">&rarr; site web &larr;</a></td></tr>{% endif %}
     </table>
 </div>

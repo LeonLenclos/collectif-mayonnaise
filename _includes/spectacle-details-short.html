@@ -5,9 +5,6 @@
     <table>
 
         {%if include.spectacle.genre %}<tr><td>genre</td><td>{{include.spectacle.genre}}</td></tr>{% endif %}
-        {%if include.spectacle.duree %}<tr><td>durée</td><td>{{include.spectacle.duree}} min</td></tr>{% endif %}
-
-        {%if include.spectacle.annee %}<tr><td>création</td><td>{{include.spectacle.annee}}</td></tr>{% endif %}
         <tr><td>public</td><td>Tout public{%if include.spectacle.age_min %} dès {{include.spectacle.age_min}} ans{% endif %}</td></tr>
         {%if include.spectacle.mail || include.spectacle.tel%}<tr><td colspan="2">{{include.spectacle.mail}}{%if include.spectacle.mail ´ include.spectacle.tel%}<br/>{% endif %}{{include.spectacle.tel}}</td></tr>{% endif %}
     </table>

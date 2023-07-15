@@ -18,8 +18,8 @@
     - Une histoire pleine d’aventures et de dangers, où l’appât du gain peut s’avérer fatal, où l’amitié est précieuse et fragile, où l’honnêteté n’est pas toujours du côté que l’on croit…"
   cour: haut
   horaires :
-    impaires: 17h00
-    paires: 11h15
+    impairs: 17h00
+    pairs: 11h15
 
 - titre: Contes et légendes de la guerre de Troie
   compagnie: Cie du Vieux Singe
@@ -37,7 +37,7 @@
 
   cour: bas
   horaires :
-    impaires: 18h00
+    impairs: 18h00
 
 
 - titre: Le voyage d’Ulysse
@@ -55,7 +55,7 @@
 
   cour: bas
   horaires :
-    paires: 18h00
+    pairs: 18h00
 
 - titre: Les impavides bretons
   compagnie: La Mandale
@@ -72,8 +72,8 @@
     - "Prendre un temps ensemble pour vraiment se poser la question : Que se passe-t-il dans..."
   cour: haut
   horaires :
-    impaires: 11h15
-    paires: 17h00
+    impairs: 11h15
+    pairs: 17h00
 
 - titre: ELEKTRA I love you so much
   compagnie: Cie NOKILL
@@ -88,8 +88,8 @@
     - I love you so much, nouveau spectacle d’Elektra est un live de musique électronique festif mis en scène avec des hologrammes, une invitation à une expérience visuelle et sonore enivrante et hypnotique.
   cour: bas
   horaires :
-    impaires: 00h00
-    paires: 22h45
+    impairs: _00h00
+    pairs: 22h45
 
 - titre: Quand les corbeaux auront des dents
   compagnie: L’espèce de compagnie
@@ -107,7 +107,8 @@
 
   cour: bas
   horaires :
-    tlj: 15h30
+    impairs: 15h30
+    pairs: 15h30
 
 - titre: Membre
   compagnie: Collectif Membres
@@ -126,7 +127,8 @@
 
   cour: bas
   horaires :
-    tlj: 12h45
+    impairs: 12h45
+    pairs: 12h45
 
 - titre: Les conférences de poche
   compagnie: Cie NOKILL
@@ -141,7 +143,8 @@
     - Depuis le milieu des années 10, je donne des courtes conférences où je confonds fiction et réalité de sorte que la différence entre les deux n’intéresse plus personne. Une fois, à propos d’une histoire que je racontais quelqu’un m’a demandé si c’était vrai, je n’ai pas pu répondre car je ne savais plus. Une fois, un collégien qui avait vu le spectacle lors d’une sortie scolaire a écrit à propos de ces conférences « long et très sérieux ». Une fois, j’ai été obligé d’avouer à une doctorante qu’en réalité, je n’avais pas lu Spinoza. Une fois, j’ai dû arrêter la conférence, car un téléphone sonnait et que personne ne le coupait, c’était le mien. Parfois, je ne dis rien pendant plusieurs minutes et tout le monde m’écoute. Souvent je fais des dessins sur un paper-board pendant que je parle. J’ai aussi un verre d’eau que j’utilise pour boire.
   cour: bas
   horaires :
-    tlj: 12h15, 14h30, 16h30
+    impairs: 12h15, 14h30, 16h30
+    pairs: 12h15, 14h30, 16h30
 
 - titre: Salle d’attente
   compagnie: La station magnétique
@@ -157,8 +160,8 @@
     - Escapade intime et politique dans un imaginaire collectif nourri de SF, La Salle d’Attente nous embarque dans une immersion à grande vitesse.
   cour: haut
   horaires :
-    impaires: 15h00
-    paires: 18h00
+    impairs: 15h00
+    pairs: 18h00
 
 - titre: Cabaret Bad Biches
   compagnie: Collectif Bad Biches
@@ -175,8 +178,8 @@
     - Nul support ne s’aurait échappé à leur appétit, triturant et explorant la chanson française, l'adrénaline du RnB, la force de l'opéra, la puissance du rap, le drame italien et les morsures du punk et j’en passe. Vous traînant la patte dans leurs histoires avec une impertinence qui leur est propre.
   cour: bas
   horaires :
-    impaires: 22h15
-    paires: 21h30
+    impairs: 22h15
+    pairs: 21h30
 
 - titre: Full Fuel
   compagnie: Oxyput compagnie
@@ -192,7 +195,8 @@
   - Restons prêts à traverser cette tempête qui pointe à l’horizon tout en dansant comme des singes sur de la musique folle ! 
   cour: haut
   horaires :
-    tlj: 20h15
+    impairs: 20h15
+    pairs: 20h15
 
 - titre: Happy Devils
   compagnie: ~
@@ -210,7 +214,8 @@
 
   cour: bas
   horaires :
-    tlj: 19h00
+    impairs: 19h00
+    pairs: 19h00
 
 - titre: DJ'itane
   compagnie: Le Bateau des Fous
@@ -225,7 +230,7 @@
     - "Du flamenco au swing manouche, des musiques tziganes aux fanfares de l’est, la performance de DJ'itane mêle musiques traditionnelles, rythmes électros, boule de cristal, lumières kitsch et ombres mystérieuses, dans un mix joyeux et festif"
   cour: bas
   horaires :
-    paires: 00h30
+    pairs: _00h30
 
 - titre: Bohème 3000
   compagnie: "-C-i-E-L- Δ FLAMME"
@@ -240,7 +245,9 @@
     - En déambulation sur les chemins de la réalité dans leur caravane, -C-i-e-l- et Flamme sont des poètes du hasard. Leur duo se nomme Bohème 3000. En partant d’un point de vue holistique qui considère une interconnexion entre chaque chose, les phrases et les notes deviennent des matériaux à convoquer par le hasard dans un proto-cole d’improvisation poétique.
   cour: haut
   horaires :
-    tlj: en continu dès 11h00
+    notes: en continu dès 11h00
+    impairs: 11h00
+    pairs: 11h00
 
 - titre: L'enfant Nine
   compagnie: Compagnie Minuscule
@@ -256,7 +263,8 @@
     - "​A l’aide d’une machine électronique nommée « looper », la conteuse-chanteuse Lily Westphal nous emmène dans l’univers de Nine, explorant une forêt mystérieuse à la rencontre d’étonnants personnages : un bébé géant, un arbre chanteur, un monstre gluant qui fait du rap… Ouvrez grand vos oreilles car vous n’êtes pas au bout de vos surprises !"
   cour: bas
   horaires :
-    tlj: 10h30
+    impairs: 10h30
+    pairs: 10h30
 
 
 
@@ -277,7 +285,8 @@
     - "Et ça lui va"
   cour: haut
   horaires :
-    tlj: 13h30
+    impairs: 13h30
+    pairs: 13h30
 
 
 
@@ -296,7 +305,8 @@
     - "N’osant pas sortir de peur de ce qu’elle risquerait de découvrir, elle fait signe à un passant et l’attire à l’intérieur de l’armoire… Puis ce sera au tour d’un autre…"
   cour: haut
   horaires :
-    tlj: 12h30, 16h00
+    impairs: 12h30, 16h00
+    pairs: 12h30, 16h00
 
 
 
@@ -314,7 +324,26 @@
     - "Venez vous faire bercer par de multiples couleurs sonores, découvrez ou redécouvrez  ces chants qui sauront vous faire voyager  ! "
   cour: haut
   horaires :
-    tlj: 14h00
+    impairs: 14h00
+    pairs: 14h00
+
+
+- titre: Encrées Libres
+  compagnie: Iza & ZzT'off
+  genre: Atelier Sérigraphie
+  duree: ~
+  annee: ~
+  age_min: ~
+  mail: zztoff@hotmail.com
+  tel: ~
+  site: https://3615sss.blogspot.com/
+  texte :
+    - "Iza & ZzT'off sont des sérigraphes tout terrains qui aiment mettre des couleurs sur tout ce qui leur tombe sous la main. Impressions en direct sur vos vêtements"
+  cour: bas
+  horaires :
+    notes: en continu
+    impairs: ~
+    pairs: ~
 
 
 

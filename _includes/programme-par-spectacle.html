@@ -1,0 +1,25 @@
+
+<table class="programme norotate" markdown="0">
+    <tr>
+        <th></th>
+        <th><h2>Jours impairs</h2>(mer 23 et ven 25)</th>
+        <th><h2>Jours pairs</h2>(jeu 24 et sam 26)</th>
+    </tr>
+
+    {% assign sorted_spectacles = site.data.spectacles | sort:"horaires.impairs"    " %}
+    {% for spectacle in sorted_spectacles %}
+    <tr>
+        <td>
+            <em>{{spectacle.titre}} ({{spectacle.ref_time}})</em>
+            {% if spectacle.compagnie %}{{spectacle.compagnie}} - {% endif %}{{spectacle.duree}}' - cour du {{spectacle.cour}} {% if spectacle.cour == "haut" %}&uarr;{% else %}&darr;{% endif %}
+        </td>
+
+        {% if spectacle.horaires.impairs ==  spectacle.horaires.pairs%}
+        <td colspan="2">{{spectacle.horaires.impairs}}</td>
+        {% else %}
+        <td>{{spectacle.horaires.impairs}}</td>
+        <td>{{spectacle.horaires.pairs}}</td>
+        {% endif %}
+    </tr>
+    {% endfor %}
+</table>

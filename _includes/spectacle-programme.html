@@ -1,0 +1,5 @@
+<p>
+    <em>{{include.spectacle.titre}}</em><br/>
+    {% if include.spectacle.horaires.notes %}<strong>{{include.spectacle.horaires.notes}}</strong><br/>{% endif %}
+     {{include.spectacle.duree}} min - cour du {{include.spectacle.cour}} {% if include.spectacle.cour == "haut" %}&uarr;{% else %}&darr;{% endif %}
+</p>

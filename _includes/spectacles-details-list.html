@@ -1,6 +1,6 @@
 
 <div class="spectacles details norotate" markdown="0">
     {% for spectacle in site.data.spectacles %}
-    {% include spectacle-details.html spectacle=spectacle %}
+    {% include spectacle-details.html spectacle=spectacle web=include.web %}
     {% endfor %}
 </div>
