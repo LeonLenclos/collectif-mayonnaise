@@ -15,4 +15,4 @@ layout: default
 
 - [logo format profile pic pour les réseaux](images/reseaux/pp.png)
 - [visu format banière pour facebook](images/reseaux/baniere.png)
-- [Les logos](http://127.0.0.1:4000/images/logo/png/)
+- [Les logos](images/logo/png/)
