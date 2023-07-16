@@ -274,7 +274,7 @@ li a {
   width: 100%;
   height:85%;
   padding: 5mm;
-  font-size: 1.1em;
+  font-size: 1.3em;
 }
 
 table.programme th, table.programme td{
@@ -301,7 +301,7 @@ table.programme p {
 
 }
 table.programme td {
-  padding: 0;
+  padding: 0.1em;
   margin: 0;
 
 }
@@ -377,7 +377,7 @@ header nav a:not(.logo) {
 }
 
 .feuille.double .affiche footer {
-  padding-top: 7%;
+  padding-top: 9%;
 
 }
 .affiche .typo {
