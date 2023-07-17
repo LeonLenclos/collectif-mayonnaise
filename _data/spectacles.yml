@@ -101,9 +101,9 @@
   tel: 07 68 52 29 53
   site: https://espece-de-compagnie.fr/spectacle-quand-les-corbeaux-auront-des-dents
   texte :
-    - Adaptation libre du livre « La saga du Grand Corbeau » de Sharon Stewart.
-    - L’Espèce de compagnie explore ici la complexité et l’absurdité de notre relation avec les quelques espèces libres encore existantes. A travers le point de vue d’un animal sauvage, un corbeau,  elle pose un regard humoristique et acidulé sur les deux pattes que nous sommes et la place que nous occupons dans le monde.
-
+    - "Cet hiver, aux Monts Perdus, il fait froid , il fait faim. Les corbeaux se meurent. Mais Tok, corbillat héroïque, part à la recherche des Princes Gris, car une légende dit qu’ autrefois ils chassaient ensemble et qu’aucun corbac ne mourait de faim. Mais qui sont ces Princes Gris, où sont ils ? Et comment  traverser le territoire des deux pattes  sans y laisser quelques plumes ?"
+    - "Quand les corbeaux auront des dents… C’est la quête un peu folle d’un corbeau inconscient. C’est une légende oubliée et des Princes Gris disparus. C’est du maïs qui « croisse » et des corneilles qui « décroassent ». C’est Charles Ingalls  qui refait le toit de sa niche. C’est un bar où se disent des vérités plus qu’approximatives. C’est une partie de chasse à balles perdues. C’est la beauté cachée des nuisibles. C’est un corbeau qui mourrait de faim. C’est un corbeau qui trouve des dents…"
+    - "C’est aussi et surtout un spectacle poéticoécolodéjanté  où l’on se rit de la grande difficulté que nous avons, nous ,deux pattes, à partager, à cohabiter, à coexister avec les créatures sauvages…"
 
   cour: bas
   horaires :
@@ -160,8 +160,8 @@
     - Escapade intime et politique dans un imaginaire collectif nourri de SF, La Salle d’Attente nous embarque dans une immersion à grande vitesse.
   cour: haut
   horaires :
-    impairs: 15h00
-    pairs: 18h00
+    impairs: 15h00, 18h_00
+    pairs: 15h00, 18h_00
 
 - titre: Cabaret Bad Biches
   compagnie: Collectif Bad Biches
@@ -237,12 +237,12 @@
   genre: Poésie sonore
   duree: 10
   annee: 2022
-  age_min: ~
+  age_min: 7
   mail: bohemetroismille@gmail.com
   tel: 07 53 71 70 31 - 06 65 11 29 87
   site: https://boheme3000.fr/
   texte :
-    - En déambulation sur les chemins de la réalité dans leur caravane, -C-i-e-l- et Flamme sont des poètes du hasard. Leur duo se nomme Bohème 3000. En partant d’un point de vue holistique qui considère une interconnexion entre chaque chose, les phrases et les notes deviennent des matériaux à convoquer par le hasard dans un proto-cole d’improvisation poétique.
+    - En déambulation sur les chemins de la réalité dans leur caravane, -C-i-e-l- et Flamme sont des poètes du hasard. Leur duo se nomme Bohème 3000. En partant d’un point de vue holistique qui considère une interconnexion entre chaque chose, les phrases et les notes deviennent des matériaux à convoquer par le hasard dans un protocole d’improvisation poétique.
   cour: haut
   horaires :
     notes: en continu dès 11h00
@@ -253,7 +253,7 @@
   compagnie: Compagnie Minuscule
   genre: Conte sonore et musical
   duree: 40
-  annee: 2019
+  annee: 2021
   age_min: 4
   mail: minuscule.compagnie@gmail.com
   tel: 06 42 97 70 52
@@ -271,7 +271,7 @@
 - titre: Brigitte
   compagnie: Ma Grand Mère Cie
   genre: Solo de Clown
-  duree: 30
+  duree: 25
   annee: ~
   age_min: ~
   mail:  magrandmereproductions@gmail.com
@@ -293,7 +293,7 @@
 - titre: Murmures
   compagnie:  Cie Syrinx
   genre: Théâtre
-  duree: 45
+  duree: 5
   annee: ~
   age_min: ~
   mail:  cie.syrinx@gmail.com
@@ -305,6 +305,7 @@
     - "N’osant pas sortir de peur de ce qu’elle risquerait de découvrir, elle fait signe à un passant et l’attire à l’intérieur de l’armoire… Puis ce sera au tour d’un autre…"
   cour: haut
   horaires :
+    notes: en continu pendant 45 min
     impairs: 12h30, 16h00
     pairs: 12h30, 16h00
 
