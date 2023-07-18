@@ -101,8 +101,7 @@
   tel: 07 68 52 29 53
   site: https://espece-de-compagnie.fr/spectacle-quand-les-corbeaux-auront-des-dents
   texte :
-    - "Cet hiver, aux Monts Perdus, il fait froid , il fait faim. Les corbeaux se meurent. Mais Tok, corbillat héroïque, part à la recherche des Princes Gris, car une légende dit qu’ autrefois ils chassaient ensemble et qu’aucun corbac ne mourait de faim. Mais qui sont ces Princes Gris, où sont ils ? Et comment  traverser le territoire des deux pattes  sans y laisser quelques plumes ?"
-    - "Quand les corbeaux auront des dents… C’est la quête un peu folle d’un corbeau inconscient. C’est une légende oubliée et des Princes Gris disparus. C’est du maïs qui « croisse » et des corneilles qui « décroassent ». C’est Charles Ingalls  qui refait le toit de sa niche. C’est un bar où se disent des vérités plus qu’approximatives. C’est une partie de chasse à balles perdues. C’est la beauté cachée des nuisibles. C’est un corbeau qui mourrait de faim. C’est un corbeau qui trouve des dents…"
+    - "Quand les corbeaux auront des dents…  <br/>C’est la quête un peu folle d’un corbeau inconscient <br/>C’est une légende oubliée et des Princes Gris disparus  <br/>C’est du maïs qui « croisse » et des corneilles qui « décroassent » <br/>C’est Charles Ingalls  qui refait le toit de sa niche <br/>C’est un bar où se disent des vérités plus qu’approximatives <br/>C’est une partie de chasse à balles perdues  <br/>C’est la beauté cachée des nuisibles  <br/>C’est un corbeau qui mourrait de faim <br/>C’est un corbeau qui trouve des dents…"
     - "C’est aussi et surtout un spectacle poéticoécolodéjanté  où l’on se rit de la grande difficulté que nous avons, nous ,deux pattes, à partager, à cohabiter, à coexister avec les créatures sauvages…"
 
   cour: bas
@@ -112,7 +111,7 @@
 
 - titre: Membre
   compagnie: Collectif Membres
-  genre: Théâtre
+  genre: Théâtre de rue
   duree: 55
   annee: 2021
   age_min: 13
@@ -120,11 +119,9 @@
   tel: 06 86 66 25 01 
   site: http://www.lesthereses.com/membre/
   texte :
-    - Sur une terrasse de café, Membre embarque les spectateur·trices à être témoins de l’enquête menée sous leurs yeux par les comédien·nes. 
-    - À la fois drôles et féroces, i·elles s’éprouvent à se dévoiler, au travers des questions de genre, de sexe et de sexualité ; i·elles mettent à nu leur intime, et se révèlent dans leur singularité, au-delà des cases, des catégories et des apparences.
-    - Avec cette enquête sans fard, Membre souhaite faire écho en chacun·e d’entre nous, et mettre en lumière la diversité qui nous compose, réjouissante, ennemie du binaire. 
-    - C’est une ode à la liberté et au courage d’être soi.
-
+    - "Sur une terrasse de café, deux amies ont rendez-vous. Autour d’un verre, elles questionnent leur identité, elles mettent à nu leur intime et leurs relations aux autres."
+    - "Membre nous embarque dans cette enquête à vue, drôle et féroce, qui met en lumière la diversité qui nous compose, réjouissante, ennemie du binaire."
+    - "C’est une ode à la liberté et au courage d’être soi !"
   cour: bas
   horaires :
     impairs: 12h45
@@ -243,7 +240,7 @@
   site: https://boheme3000.fr/
   texte :
     - En déambulation sur les chemins de la réalité dans leur caravane, -C-i-e-l- et Flamme sont des poètes du hasard. Leur duo se nomme Bohème 3000. En partant d’un point de vue holistique qui considère une interconnexion entre chaque chose, les phrases et les notes deviennent des matériaux à convoquer par le hasard dans un protocole d’improvisation poétique.
-  cour: haut
+  cour: bas
   horaires :
     notes: en continu dès 11h00
     impairs: 11h00
@@ -291,18 +288,19 @@
 
 
 - titre: Murmures
-  compagnie:  Cie Syrinx
-  genre: Théâtre
+  compagnie:  Cies Syrinx et Lyricomatic
+  genre: Entresort
   duree: 5
   annee: ~
   age_min: ~
   mail:  cie.syrinx@gmail.com
-  tel: ~
+  tel: 06 35 41 89 07
   site: https://www.compagnie-syrinx.fr/murmures
   texte :
     - "Une dryade, nymphe des bois, vivait dans une forêt et protégeait un grand chêne. La dryade, une nuit, s’endormit dans son chêne. Et l’on coupa le chêne. Puis l’on en fit des planches et avec ces planches, on fit une armoire. Une grande armoire en bois de chêne. Bien loin de la forêt."
     - "Et un jour la nymphe se réveilla…"
     - "N’osant pas sortir de peur de ce qu’elle risquerait de découvrir, elle fait signe à un passant et l’attire à l’intérieur de l’armoire… Puis ce sera au tour d’un autre…"
+    - "Petites histoires naturelles enfermées dans une armoire."
   cour: haut
   horaires :
     notes: en continu pendant 45 min
