@@ -15,7 +15,7 @@
     - Le petit Jim Hawkins, qui mène une vie tranquille à l’auberge de l’Amiral Benbow, se retrouve par une série d’aventures en possession d’une mystérieuse carte au trésor.
     - Aidé par ses amis, le docteur Livesey et le Comte Trelawney, il embarque à bord de l’Hispanola, à la recherche de l’Ile au Trésor.
     - Jim est recruté comme mousse. Mais l’équipage se révèle être en réalité une bande de pirates – menée par John Silver Jim et ses amis réussiront-ils à échapper aux pirates, à trouver le trésor et à rentrer sains et saufs en Angleterre ?
-    - Une histoire pleine d’aventures et de dangers, où l’appât du gain peut s’avérer fatal, où l’amitié est précieuse et fragile, où l’honnêteté n’est pas toujours du côté que l’on croit…"
+    - "Prix jury festival Off Charleville 2021<br/>Prix Jury Coup de Pouce Au Bonheur des Mômes /<br/>Grand Bornand 2022"
   cour: haut
   horaires :
     impairs: 17h00
@@ -143,8 +143,8 @@
     impairs: 12h15, 14h30, 16h30
     pairs: 12h15, 14h30, 16h30
 
-- titre: Salle d’attente
-  compagnie: La station magnétique
+- titre: La Salle d'Attente
+  compagnie: La Station Magnétique
   genre: Théâtre d’objets
   duree: 55
   annee: 2022
@@ -309,18 +309,17 @@
 
 
 
-- titre: Acabella
+- titre: ACABELLA
   compagnie:  ~
-  genre: Chant
-  duree: 30
-  annee: 2018
+  genre: Musique du monde / Chants traditionnels
+  duree: 60
+  annee: 2022
   age_min: ~
   mail: acabella.five@gmail.com
   tel: ~
-  site: https://www.compagnie-syrinx.fr/murmures
+  site: https://www.instagram.com/_acabella/
   texte :
-    - "Un groupe de quatre chanteuses a capella qui se sont réunies autour de l’envie commune de créer un voyage vocal à travers des chants traditionnels d’ici et d’ailleurs."
-    - "Venez vous faire bercer par de multiples couleurs sonores, découvrez ou redécouvrez  ces chants qui sauront vous faire voyager  ! "
+    - "ACABELLA est un groupe de 4 chanteuses a cappella qui se sont réunies en 2018 autour de l’envie commune de créer un voyage vocal à travers des chants traditionnels d’ici et d’ailleurs. Alors venez vous faire bercer par de multiples couleurs sonores, découvrez ou redécouvrez ces chants qui sauront vous faire voyager !"
   cour: haut
   horaires :
     impairs: 14h00

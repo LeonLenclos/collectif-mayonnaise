@@ -1,7 +1,7 @@
 
 <div class="spectacle" id="{{include.spectacle.titre | slugify}}" markdown="0">
     <h2><em>{{include.spectacle.titre}}</em>{{include.spectacle.compagnie}}</h2>
-    <div class="photo"><div class="container"><img class="norotate" src="images/spectacles/{{include.spectacle.titre | slugify}}.png" alt="Visuel pour {{include.spectacle.titre}}"></div></div>
+    <div class="photo"><div class="container"><img class="norotate" src="images/spectacles/{{include.spectacle.titre | slugify}}.jpg" alt="Visuel pour {{include.spectacle.titre}}"></div></div>
     {% for p in include.spectacle.texte %}
     <p>{{p}}</p>
     {% endfor %}
